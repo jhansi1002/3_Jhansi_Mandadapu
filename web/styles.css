@@ -1,0 +1,6 @@
+body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:20px;background:#f7fafc}
+.container{max-width:900px;margin:0 auto}
+.panel{background:#fff;border:1px solid #ddd;padding:16px;margin-bottom:16px;border-radius:8px}
+textarea,input{width:100%;padding:8px;margin:6px 0}
+button{padding:8px 12px;background:#0078d4;color:#fff;border:0;border-radius:6px;cursor:pointer}
+pre{background:#0f1724;color:#e6eef8;padding:12px;border-radius:6px;overflow:auto}
